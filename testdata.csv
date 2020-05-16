@@ -1,0 +1,101 @@
+rank;name;agency;real name;group;age;height;weight;blood type;origin;country;position;industry;gender
+1;Peak;Chandelier Music;Kongthap Peak;;19;186;71;A;Thai;Thailand;;K-pop;Male
+2;Son Dong Pyo;DSP Media;Son Dong Pyo;;22;166;48;O;Korean;South Korea;Vocalist, dancer;K-pop;Male
+3;Lee Jun Hyuk;DSP Media;Lee Jun Hyuk;;19;180;63;B;Korean;South Korea;Rapper, Vocalist, Dancer;K-pop;Male
+4;Lee Hwan;DSP Media;Lee Hwan;;21;169;53;A;Korean;South Korea;Vocalist;K-pop;Male
+5;Yoon Seo Hyeung;&August;Yoon Seo Hyeung;;21;163;44;B;Korean;South Korea;Musical;K-pop;Female
+6;Uehera Jun;JH1;Ueahera Jun;;23;176;60;B;Japanese;Japan;;K-pop;Male
+7;Park Ga Eul;Astory;Park Ga Eul;;18;164;48;B;Korean;South Korea;Dancer;K-pop;Female
+8;Yim Kyung Ha;Astory;Yim Kyung Ha;;19;161;41;AB;Korean;South Korea;Vocalist;K-pop;Female
+9;Lee Eugene;Independent;Lee Yoo Jin;;23;170;57;A;Korean;South Korea;;K-pop;Male
+10;Lim Hoy Sun;CMG;Lim Hoy Sun;;18;170;54;O;Korean;South Korea;Dancer, Rapper;K-pop;Female
+11;Lee Woo Jin;Maroo;Lee Woo Jin;;21;178;65;A;Korean;South Korea;Rapper ;K-pop;Male
+12;Lee Jin Woo;Maroo;Lee Jin Woo;;20;172;60;A;Korean;South Korea;Dancer ;K-pop;Male
+13;Lee Tae Seung;Maroo;Lee Tae Seung;;21;182;66;O;Korean;South Korea;Vocalist;K-pop;Male
+14;Kwon Eun Bean;Cube;Kwon Eun Bean;;20;167;48;B;Korean;South Korea;Vocalist, dancer;K-pop;Female
+15;Lee Youn Seo;Cube;Lee Youn Seo;;20;162;43;B;Korean;South Korea;Dancer;K-pop;Female
+16;Jeon So Yeon;Cube;Jeon So Yeon;;22;157;44;B;Korean;South Korea;Rapper, Dancer;K-pop;Female
+17;Kang Min Hee;Starship Entertainment;Kang Min Hee;;23;182;60;AB;Korean;South Korea;Vocalist;K-pop;Male
+18;Koo Jung Mo;Starship Entertainment;Koo Jung Mo;;20;181;58;B;Korean;South Korea;Vocalist, Guitar;K-pop;Male
+19;Moon Hyun Bin;Starship Entertainment;Moon Hyun Been;;20;175;60;B;Korean;South Korea;Vocalist;K-pop;Male
+20;Song Hyung Jun;Starship Entertainment;Song Hyung Jun;;23;174;55;A;Korean;South Korea;Dancer;K-pop;Male
+21;Ham Won Jin;Starship Entertainment;Ham Won Jin;;19;174;57;O;Korean;South Korea;Vocalist;K-pop;Male
+22;Yoon Chae Kyung;DSP Media;Yoon Chae Kyung;;23;160;45;AB;Korean;South Korea;Vocalist;K-pop;Female
+23;Cho Si Yoon;DSP Media;Cho Si Yoon;;24;160;41;B;Korean;South Korea;Dancer;K-pop;Female
+24;Won Hyun Sik;Happyface Entertainment;Won Hyunn Sik ;;22;173;57;A;Korean;South Korea;Vocalist, dancer;K-pop;Male
+25;Kim Si Hyeon ;Happyface Entertainment;Kim Si Hyeon;;20;157;43;O;Korean;South Korea;;K-pop;Female
+26;Kim Woo Jung;Happyface Entertainment;Kim Woo Jung;;24;162;47;B;Korean;South Korea;Dancer;K-pop;Female
+27;Kim Ja Yeon;Happyface Entertainment;Kim Ja Yeon;;25;164;47;A;Korean;South Korea;Dancer;K-pop;Female
+28;Kim Ji Sung ;Happyface Entertainment;Kim Ji Sung;;20;169;44;AB;Korean;South Korea;;K-pop;Female
+29;Kim Hong Eun;Happyface Entertainment;Kim Hong Eun;;22;170;53;B;Korean;South Korea;;K-pop;Female
+30;Lee Su Hyeon;Happyface Entertainment;Lee Su Hyeon;;20;161;44;A;Korean;South Korea;;K-pop;Female
+31;Hwang Soo Yeon;Happyface Entertainment;Hwan Soo Yeon;;24;168;54;B;Korean;South Korea;Dancer;K-pop;Female
+32;Hwang A Young;Happyface Entertainment;Hwang A Young;;21;157;42;O;Korean;South Korea;;K-pop;Female
+33;Keum Dong Hyun;C9 Entertainment;Keum Dong Hyun;;19;174;55;B;Korean;South Korea;Dancer;K-pop;Male
+34;Lee Jae Bin;C9 Entertainment;Lee Jae Bin;;20;171;57;B;Korean;South Korea;;K-pop;Male
+35;Kang Mi Na;Jellyfish Entertainment;Kang Mi Na;;29;162;48;O;Korean;South Korea;Vocalist, dancer;K-pop;Female
+36;Kim Na Young;Jellyfish Entertainment;Kim Na Young;;21;169;50;O;Korean;South Korea;Vocalist;K-pop;Female
+37;Kim Se Jeong;Jellyfish Entertainment;Kim Se Jeong;;20;164;48;AB;Korean;South Korea;Vocalist;K-pop;Female
+38;Kim Dong Bin ;MLD;Kim Dong Bin;;19;184;64;B;Korean;South Korea;Rapper;K-pop;Male
+39;Jeon So Mi;JYP;Ennik Somi Douma;;19;168;48;O;Korean;USA;Vocalist, Dancer;K-pop;Female
+40;Choi Jin Hwa;WUZO Entertainment;Choi Jin Hwa;;18;180;64;AB;Korean;South Korea;Rapper, Dancer;K-pop;Male
+41;Kim Min Ji ;Kconic;Kim Min Ji;;23;160;42;B;Korean;South Korea;Rapper;K-pop;Female
+42;Kim Hyeong Eun;Kconic;Kim Hyeong Eun;;22;160;39;O;Korean;South Korea;Vocalist, dancer;K-pop;Female
+43;Park Se Hee;Kconic;Park Se Hee;;23;161;43;A;Korean;South Korea;;K-pop;Female
+44;Lee Jin Hee;Kconic;Lee Jin Hee;;23;165;47;O;Korean;South Korea;;K-pop;Female
+45;Kim Si Hun;Brand New Music;Kim Si Hun;;20;175;55;B;Korean;South Korea;Rapper ;K-pop;Male
+46;Yun Jung Hwan;Brand New Music;Yun Jung Hwan;;19;181;66;AB;Korean;South Korea;Vocalist;K-pop;Male
+47;Hong Seong Jun;Brand New Music;Hong Seong Jun;;21;175;55;A;Korean;South Korea;Vocalist, dancer;K-pop;Male
+48;Lee Eun Sang;Brand New Music;Lee Eun Sang;;22;179;63;A;Korean;South Korea;Vocalist, dancer;K-pop;Male
+49;Park So Yeon;LEON;Park So Yeon;;20;168;49;A;Korean;South Korea;Rapper;K-pop;Female
+50;Kim Dong Kyu;Urban Works;Kim Dong Kyu;;21;176;64;O;Korean;South Korea;Rapper, Dancer;K-pop;Male
+51;Kim Chung Ha;M&H;Kim Chung Ha;;20;161;44;A;Korean;South Korea;Dancer;K-pop;Female
+52;Oh Seo Jung;M&H;Oh Seo Jung;;21;164;49;A;Korean;South Korea;Piano;K-pop;Female
+53;Kim Min Seo;Urban Works;Kim Min Seo;;20;177;52;A;Korean;South Korea;Vocalist;K-pop;Male
+54;Byeon Seong Tae;Urban Works;Byeon Seong Tae;;22;180;64;O;Korean;South Korea;;K-pop;Male
+55;Hong Sung Hyeon;Urban Works;Hong Sung Hyeon;;24;175;60;A;Korean;South Korea;Rapper;K-pop;Male
+56;Niwa Shiroria;MAJESTY;Niwa Shiroria;;22;162;48;B;Japanese;Japan;Dancer;K-pop;Female
+57;An Ye Seul;MAJESTY;An Ye Seul;;21;161;46;O;Korean;South Korea;Vocalist;K-pop;Female
+58;Kwon Hui Jun;Cre.Ker;Kwon Hui Jun;;19;174;56;B;Korean;South Korea;;K-pop;Male
+59;Cathy;MBK;Ki Heui Hyeon;;24;167;46;O;Korean;South Korea;Rapper;K-pop;Female
+60;Dani;MBK;Kim Danielle;;20;172;50;A;Korean;South Korea;Dancer;K-pop;Female
+61;Chaeyeon;MBK;Jung Chae Yeon;;22;166;49;A;Korean;South Korea;Vocalist;K-pop;Female
+62;Kang Hyeon Su;AAP.Y;Kang Hyeon Su;;23;173;58;O;Korean;South Korea;Vocalist;K-pop;Male
+63;Lee Mi Dam;AAP.Y;Lee Mi Dam ;;22;175;56;AB;Korean;South Korea;Rapper, Dancer;K-pop;Male
+64;Jung Myung Hoon;AAP.Y;Jung Myung Hoon;;23;173;58;A;Korean;South Korea;;K-pop;Male
+65;Kim Yeon Kyeong;MIDAS;Kim Yeon Kyeong;;20;168;48;O;Korean;South Korea;;K-pop;Female
+66;Shin Hye Hyeon;MIDAS;Shin Hye Hyeon;;19;162;48;B;Korean;South Korea;;K-pop;Female
+67;Lee Chae Lin;MIDAS;Lee Chae Lin;;21;162;47;A;Korean;South Korea;Rapper;K-pop;Female
+68;Choi Yu Bin;MIDAS;Choi Yu Bin;;20;161;46;B;Korean;South Korea;Vocalist;K-pop;Female
+69;Katherine C;MIDAS;Lee Katherine;;20;165;48;B;Korean;South Korea;Rapper;K-pop;Female
+70;Han Ji Yeon;MIDAS;Han Ji Yeon;;21;167;46;O;Korean;South Korea;Vocalist, dancer;K-pop;Female
+71;Steven Kim;DS Entertainment;Steven Kim;;20;176;57;A;Korean;South Korea;Vocalist, Rapper, Dancer;K-pop;Male
+72;Kim Mi So;MJ;Kim Mi So ;;18;165;46;O;Korean;South Korea;Dancer;K-pop;Female
+73;Yu Su A;MJ;Yu Su A;;19;161;43;B;Korean;South Korea;Dancer;K-pop;Female
+74;Heo Saem;MJ;Heo Saem;;23;166;48;B;Korean;South Korea;Vocalist;K-pop;Female
+75;Yun Hyun Jo;Gost;Yun Hyun Jo;;22;188;70;A;Korean;South Korea;Rapper, Dancer;K-pop;Male
+76;Lee Sang Ho;Gost;Lee Sang Ho;;22;189;70;AB;Korean;South Korea;Vocalist;K-pop;Male
+77;Lee Se Heun;NEXTLEVEL;Lee Se Heun;;19;159;48;O;Korean;South Korea;Dancer;K-pop;Female
+78;Sung Min Seo;SF Entertainment;Sung Min Seo;;18;190;65;O;Korean;South Korea;Rapper, Dancer;K-pop;Male
+79;Kim So Hye;REDLINE;Kim So Hye;;19;163;48;A;Korean;South Korea;;K-pop;Female
+80;Lee Gyu Hyung;WM Entertainment;Lee Gyu Hyung;;26;182;72;AB;Korean;South Korea;;K-pop;Male
+81;Gang Gyeong Won;Pledis;Gang Gyeong Won;;19;170;50;A;Korean;South Korea;Vocalist, Dancer;K-pop;Female
+82;Kang Yae Bin;Pledis;Kang Yae Bin;;18;162;49;A;Korean;South Korea;Rapper, Dancer;K-pop;Female
+83;Kim Min Kyeong;Pledis;Kim Min Kyeong;;19;172;49;A;Korean;South Korea;Vocalist;K-pop;Female
+84;Park Si Yeon;Pledis;Park Si Yeon;;19;163;51;O;Korean;South Korea;Vocalist, Dancer;K-pop;Female
+85;Lim Na Young;Pledis;Lim Na Young;;21;171;50;O;Korean;South Korea;Rapper, Dancer;K-pop;Female
+86;Jung Eun Woo;Pledis;Jung Eun Woo;;18;167;48;B;Korean;South Korea;Vocalist;K-pop;Female
+87;Cho Kyeol Kyeon;Pledis;Zhou Jie Qiong;;18;166;47;O;Chinese;China;Vocalist, Dancer;K-pop;Female
+88;Baek Jin;Vine Entertainment;Baek Jin;;24;174;60;AB;Korean;South Korea;Rapper, Dancer;K-pop;Male
+89;Seo Hye Lin;SS;Seo Hye Lin;;21;167;45;A;Korean;South Korea;Vocalist;K-pop;Female
+90;Lee Su Hyung;SS;Lee Su Hyung;;20;167;50;B;Korean;South Korea;Vocalist;K-pop;Female
+91;Lee Hae In;SS;Lee Hae In;;22;165;49;B;Korean;South Korea;Vocalist, Dancer;K-pop;Female
+92;Choi Byung Hoon;Enfant Terrible Entertainment;Choi Byung Hoon;;20;174;57;AB;Korean;South Korea;Rapper, Dancer;K-pop;Male
+93;Kang Si Hyeon;Star Empire;Kang Si Hyeon;;18;160;44;A;Korean;South Korea;;K-pop;Female
+94;Kim Yun Ji;Star Empire;Kim Yun Ji;;20;156;46;AB;Korean;South Korea;Dancer;K-pop;Female
+95;Han Hye Ri;Star Empire;Han Hye Ri;;19;159;42;A;Korean;South Korea;Vocalist;K-pop;Female
+96;Jeon Hyun Woo;A-Story Entertainment;Jeon Hyun Woo;;23;173;56;A;Korean;South Korea;Vocalist, Rapper;K-pop;Male
+97;Heo Jin Ho;A-Story Entertainment;Heo Jin Ho ;;21;171;55;A;Korean;South Korea;Dancer;K-pop;Male
+98;Lim Jung Min;YAMA & HOTCHICKS Entertainment;;;22;160;43;O;Korean;South Korea;Dancer;K-pop;Female
+99;Kwon Tae Eun;A-conic Entertainment;Kwon Tae Eun ;;20;185;63;O;Korean;South Korea;Vocalist;K-pop;Male
+100;Moon Hyun Ju;Nextar Entertainment;Moon Hyun Ju;;22;170;46;B;Korean;South Korea;Vocalist, Dancer;K-pop;Female
